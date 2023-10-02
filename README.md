@@ -7,7 +7,8 @@ Beyond coding and technology, I'm equally passionate about connecting with like-
 
 <p align="center">
   <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,django,dotnet,spring,java,py,c,cpp,cs,js,css,html,sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,django,dotnet,spring,sqlite,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,cs,js,css,html" />
   </a>
 </p>
 <!--
