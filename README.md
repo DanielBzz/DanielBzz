@@ -5,6 +5,11 @@ My tech journey is an adventure fueled by an unwavering passion for creating inn
 I thrive on challenges and am constantly seeking to broaden my expertise through new projects.
 Beyond coding and technology, I'm equally passionate about connecting with like-minded individuals. Feel free to reach out, let's network and collaborate on exciting projects!
 
+<p align="center">
+  <a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,aws,django,dotnet,spring,java,py,c,cpp,cs,js,css,html,sqlite,mysql" />
+  </a>
+</p>
 <!--
 **DanielBzz/DanielBzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
