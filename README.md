@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi everyone 👋
+
+I'm Daniel, a software developer with a BSc degree in Computer Science.
+My tech journey is an adventure fueled by an unwavering passion for creating innovative solutions.
+I thrive on challenges and am constantly seeking to broaden my expertise through new projects.
+Beyond coding and technology, I'm equally passionate about connecting with like-minded individuals. Feel free to reach out, let's network and collaborate on exciting projects!
 
 <!--
 **DanielBzz/DanielBzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
